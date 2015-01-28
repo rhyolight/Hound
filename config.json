@@ -1,0 +1,11 @@
+{
+    "dbpath" : "data",
+    "repos" : {
+        "NuPIC" : {
+            "url" : "https://www.github.com/numenta/nupic.git"
+        },
+        "NuPIC Core" : {
+            "url" : "https://www.github.com/numenta/nupic.core.git"
+        }
+    }
+}
